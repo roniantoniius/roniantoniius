@@ -8,7 +8,7 @@ As a student at the University of Education Indonesia, I possess a strong passio
 
 * 🌍  I'm based in Cianjur, Indonesia
 * ✉️  You can contact me at [aantoniusron@gmail.com](mailto:aantoniusron@gmail.com)
-* 🧠  I'm learning ML Ops with Azure and R
+* 🧠  I'm learning ML Ops with Azure, R
 
 ### Skills
 
