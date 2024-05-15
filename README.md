@@ -28,3 +28,5 @@ As a student at the University of Education Indonesia, I possess a strong passio
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/roniantoniius"><img src="https://github-readme-streak-stats.herokuapp.com/?user=roniantoniius&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+![](https://komarev.com/ghpvc/?username=aantoniusron&color=green)
