@@ -10,6 +10,9 @@ As a student at the University of Education Indonesia, I possess a strong passio
 * ✉️  You can contact me at [aantoniusron@gmail.com](mailto:aantoniusron@gmail.com)
 * 🧠  I'm learning ML Ops with Azure, RAG
 
+![image](https://github.com/roniantoniius/roniantoniius/assets/121453378/5b281a4a-4f7c-4c03-9e59-00a8450c2f9d)
+
+
 ### Skills
 
 
