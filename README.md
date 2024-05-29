@@ -7,9 +7,9 @@ Data Enthusiast on Real world case problem
 As a student at the University of Education Indonesia, I possess a strong passion for the realm of data enthusiast, particularly in the fields of data science and data engineering.
 
 ### Goals
-* Gain experience applying machine learning algorithms to solve real-world problems.
-* Continuously learn and develop skills and tools in data engineering and data science.
-* Contribute to a dynamic and collaborative work environment.
+* 🤖 Gain experience applying machine learning algorithms to solve real-world problems.
+* 📈 Continuously learn and develop skills and tools in data engineering and data science.
+* 💡 Contribute to a dynamic and collaborative work environment.
 
 * 🌍  I'm based in Cianjur, Indonesia
 * ✉️  You can contact me at [aantoniusron@gmail.com](mailto:aantoniusron@gmail.com)
