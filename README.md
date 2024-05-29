@@ -4,7 +4,12 @@ Hi 👋 My name is Roni Antonius Sinabutar
 Data Enthusiast on Real world case problem
 ------------------------------------------
 
-As a student at the University of Education Indonesia, I possess a strong passion for the realm of data enthusiast, particularly in the fields of data science and data engineering. I have honed my skills in data analysis and problem-solving, mastering various data analysis tools, statistics, and data visualization techniques. With a fervent desire to engage in diverse projects addressing real-world issues, my goal is to refine and acquire experience in applying machine learning algorithms to tackle these challenges. I am deeply committed to continuous learning and skill development in the domains of data engineering and data science, and I am prepared to make a significant contribution in a dynamic and collaborative work environment.
+As a student at the University of Education Indonesia, I possess a strong passion for the realm of data enthusiast, particularly in the fields of data science and data engineering.
+
+### Goals
+* Gain experience applying machine learning algorithms to solve real-world problems.
+* Continuously learn and develop skills and tools in data engineering and data science.
+* Contribute to a dynamic and collaborative work environment.
 
 * 🌍  I'm based in Cianjur, Indonesia
 * ✉️  You can contact me at [aantoniusron@gmail.com](mailto:aantoniusron@gmail.com)
