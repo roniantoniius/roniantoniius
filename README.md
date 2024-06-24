@@ -13,7 +13,7 @@ As a student at the Indonesia University of Education, I possess a strong passio
 
 * 🌍  I'm based in Cianjur, Indonesia
 * ✉️  You can contact me at [aantoniusron@gmail.com](mailto:aantoniusron@gmail.com)
-* 🧠  I'm learning ML Ops with Azure and Databricks, Julia 😊
+* 🧠  I'm learning ML Ops with Azure and Databricks, R, Julia 😊
 
 ![image](https://github.com/roniantoniius/roniantoniius/assets/121453378/5b281a4a-4f7c-4c03-9e59-00a8450c2f9d)
 
