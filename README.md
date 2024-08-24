@@ -5,15 +5,7 @@ Data Enthusiast on Real world case problem
 ------------------------------------------
 
 ### Goals
-* 🤖 Gain experience applying machine learning algorithms to solve real-world problems.
-* 📈 Continuously learn and develop skills and tools in data engineering and data science.
-* 💡 Contribute to a dynamic and collaborative work environment.
-
-* 🌍  I'm based in Cianjur, Indonesia
-* ✉️  You can contact me at [aantoniusron@gmail.com](mailto:aantoniusron@gmail.com)
 * 🧠  I'm learning ML Ops, R and Java, ETL with Airflow and Kafka😊
-
-![image](https://github.com/roniantoniius/roniantoniius/assets/121453378/5b281a4a-4f7c-4c03-9e59-00a8450c2f9d)
 
 
 ### Skills
