@@ -13,7 +13,6 @@
 # 💻 Technical Skills:
 
 ## Programming Languages, Libraries & Frameworks:
-Programming Languages, Libraries & Frameworks: 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
