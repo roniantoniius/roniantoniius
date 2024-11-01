@@ -4,6 +4,7 @@
 
 ### Goals
 * 🧠  I'm learning ML Ops, Laravel and Java Springboot, ETL with Airflow and Kafka😊
+* Creating an App with AI integrated that mainly focus on helping Indonesian child and mom.
 
 # 💻 Technical Skills:
 
