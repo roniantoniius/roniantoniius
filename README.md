@@ -1,14 +1,9 @@
 ## Hi 👋 My name is Roni Antonius Sinabutar
 
-🥽 A third-year Marine Information Systems student. My background includes extensive experience in programming, analytics, and marine. I like increasing my learning opportunities and getting the exposure I need to advance my career using what I've already learned. As much as I enjoy data manipulation, data engineer also gets me excited. How to leverage data engineering and machine learning techniques to extract meaningful insights from complex datasets and transform raw data into actionable knowledge is something I'd like to explore further.
+🥽 A third-year Marine Information Systems student. My background includes extensive experience in programming, analytics, and marine. I like increasing my learning opportunities and getting the exposure I need to advance my career using what I've already learned. As much as I enjoy data manipulation, data engineer also gets me excited. How to leverage data engineering and machine learning techniques to extract meaningful insights from complex datasets and transform raw data into actionable knowledge is something I'd like to explore further. My Goal is to be an ai angineer with integrated web development experience.
 
 ### Goals
 * 🧠  I'm learning ML Ops, Laravel and Java Springboot, ETL with Airflow and Kafka😊
-
-# 🌐 Contact:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aantoniusron/)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aantoniusron@gmail.com)
-
 
 # 💻 Technical Skills:
 
