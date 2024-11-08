@@ -3,7 +3,7 @@
 🥽 A third-year Marine Information Systems student. My background includes extensive experience in programming, analytics, and marine. I like increasing my learning opportunities and getting the exposure I need to advance my career using what I've already learned. As much as I enjoy data manipulation, data engineer also gets me excited. How to leverage data engineering and machine learning techniques to extract meaningful insights from complex datasets and transform raw data into actionable knowledge is something I'd like to explore further. My Goal is to be an ai angineer with integrated web development experience.
 
 ### Goals
-* 🧠  I'm learning ML Ops, Laravel and Java Springboot, ETL with Airflow and Kafka😊
+* 🧠  I'm learning ML Ops, Front End: Vue and React, Back End: Rust and FastAPI, ETL with Airflow and Kafka😊
 * Creating an App with AI integrated that mainly focus on helping Indonesian child and mom.
 
 # 💻 Technical Skills:
