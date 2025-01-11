@@ -45,7 +45,7 @@
 </p>
 
 ### Goals
-* 🧠  I'm learning ML Ops, Front End: Vue and React, Back End: Java, Kotlin, Flutter, ETL with Airflow and Kafka😊
+* 🧠  I'm learning ML Ops, Front End: Nuxt and React, Back End: Java, Kotlin, Flutter, ETL with Airflow and Kafka😊
 * Creating an App with AI integrated that mainly focus on helping Indonesian citizen.
 
 ### Badges
