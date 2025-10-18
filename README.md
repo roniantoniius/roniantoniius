@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Roni Antonius <a href="https://www.linkedin.com/in/aantoniusron" target="_blank">Sinabutar</a></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C9D1D9&center=true&width=435&lines=I'm+a+Software+Developer.;Welcome+to+my+GitHub+page." alt="Typing SVG" /></a>
-</p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C9D1D9&center=true&width=435&lines=Right,+I'm+the+IT+guy+!.;안+녕+하+세+요.;Always+Try+on+new+Tech!.;Continous+Learn." alt="Typing SVG" /></a>
+</p> <!--  I'm+a+Software+Developer.;Welcome+to+my+GitHub+page.  -->
 
 <h3 align="center"> Connect with me </h3>
 <div align="center">
