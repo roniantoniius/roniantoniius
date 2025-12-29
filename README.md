@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/FastAPI-171A20?style=for-the-badge&logo=fastapi&logoColor=00B140">
   <img src="https://img.shields.io/badge/React-171A20?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Vue.js-171A20?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-  <img src="https://img.shields.io/badge/Flask-171A20?style=for-the-badge&logo=flask&logoColor=000000">
   <img src="https://img.shields.io/badge/Django-171A20?style=for-the-badge&logo=django&logoColor=092E20">
   <img src="https://img.shields.io/badge/TypeScript-171A20?style=for-the-badge&logo=typescript&logoColor=007ACC">
   <img src="https://img.shields.io/badge/Tableau-171A20?style=for-the-badge&logo=tableau&logoColor=E97627">
@@ -44,9 +43,9 @@
   <img src="https://img.shields.io/badge/Kubernetes -171A20?style=for-the-badge&logo=kubernetes&logoColor=326CE5"> 
 </p>
 
-### Goals
-* 🧠  I'm learning ML Ops, Front End: Nuxt, Back End: Java Spring Boot, Kotlin, Flutter, Learning Automate Data Store and Process with GCP, i love BigQuery😊
-* Creating an App with AI integrated that mainly focus on helping Indonesian citizen.
+### Likes
+* to create an TUI for automating stuff e.g., cashflow, ticketing system
+* to automate daily activity locally
 
 ### Badges
 
